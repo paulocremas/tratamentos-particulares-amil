@@ -39,5 +39,5 @@ This project was developed to display information about dental health plans. In 
 |     ...     |     ...     |     ...     |     ...     |
 | Field N     | Procedure N |‎ Value       | Plan N      |
 
-### Looker Studio Visualization
+### Looker Studio visualization
 ![Tratamentos_Particulares_-_Amil_Dental](https://github.com/user-attachments/assets/af54c242-cbd7-4a54-b98b-01c85143026a)
