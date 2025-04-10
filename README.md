@@ -9,17 +9,17 @@ This project was developed to display information about dental health plans. In 
 
 | Field       | Procedure   | Cost        | Plan 1      | Plan 2      | Plan 3      | Plan 4      |     ...     | Plan N      |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| Field 1     | Procedure 1 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |
-|             | Procedure 2 |‎ Value       |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
-|             | Procedure 3 |‎ Value       |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
-| Field 2     | Procedure 4 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |
-|             | Procedure 5 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |             |             |             |
-|             | Procedure 6 |‎ Value       |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
-|             | Procedure 7 |‎ Value       |             |             |‎             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |‎             |
-| Field 3     | Procedure 8 |‎‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |
-|             | Procedure 9 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
+| Field 1     | Procedure 1 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |     ...     |             |
+|             | Procedure 2 |‎ Value       |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |     ...     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
+|             | Procedure 3 |‎ Value       |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |     ...     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
+| Field 2     | Procedure 4 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |     ...     |             |
+|             | Procedure 5 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |             |     ...     |             |
+|             | Procedure 6 |‎ Value       |             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |     ...     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
+|             | Procedure 7 |‎ Value       |             |             |‎             |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |     ...     |‎             |
+| Field 3     | Procedure 8 |‎‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |     ...     |             |
+|             | Procedure 9 |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             |             |             |     ...     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
 |     ...     |     ...     |     ...     |     ...     |     ...     |     ...     |     ...     |     ...     |     ...     |
-| Field N     | Procedure N |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |             | ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
+| Field N     | Procedure N |‎ Value       |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |‎ ‎ ‎ ‎ X‎ ‎ ‎ ‎     |     ...     | ‎ ‎ ‎ X‎ ‎ ‎ ‎     |
 
 ### Database model
 
